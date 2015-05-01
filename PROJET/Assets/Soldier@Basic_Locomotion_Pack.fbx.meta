@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 06e1bb9a5e7b175489bb5f080cbd4a3d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: solder_mesh
+    100002: soldier:Head
+    100004: soldier:HeadTop_End
+    100006: soldier:Hips
+    100008: soldier:LeftArm
+    100010: soldier:LeftFoot
+    100012: soldier:LeftFootToeBase_End
+    100014: soldier:LeftForeArm
+    100016: soldier:LeftHand
+    100018: soldier:LeftHandIndex1
+    100020: soldier:LeftHandIndex2
+    100022: soldier:LeftHandIndex3
+    100024: soldier:LeftHandIndex4
+    100026: soldier:LeftHandMiddle1
+    100028: soldier:LeftHandMiddle2
+    100030: soldier:LeftHandMiddle3
+    100032: soldier:LeftHandMiddle4
+    100034: soldier:LeftHandPinky1
+    100036: soldier:LeftHandPinky2
+    100038: soldier:LeftHandPinky3
+    100040: soldier:LeftHandPinky4
+    100042: soldier:LeftHandRing1
+    100044: soldier:LeftHandRing2
+    100046: soldier:LeftHandRing3
+    100048: soldier:LeftHandRing4
+    100050: soldier:LeftHandThumb1
+    100052: soldier:LeftHandThumb2
+    100054: soldier:LeftHandThumb3
+    100056: soldier:LeftHandThumb4
+    100058: soldier:LeftLeg
+    100060: soldier:LeftShoulder
+    100062: soldier:LeftToeBase
+    100064: soldier:LeftUpLeg
+    100066: soldier:Neck
+    100068: soldier:Neck1
+    100070: soldier:RightArm
+    100072: soldier:RightFoot
+    100074: soldier:RightFootToeBase_End
+    100076: soldier:RightForeArm
+    100078: soldier:RightHand
+    100080: soldier:RightHandIndex1
+    100082: soldier:RightHandIndex2
+    100084: soldier:RightHandIndex3
+    100086: soldier:RightHandIndex4
+    100088: soldier:RightHandMiddle1
+    100090: soldier:RightHandMiddle2
+    100092: soldier:RightHandMiddle3
+    100094: soldier:RightHandMiddle4
+    100096: soldier:RightHandPinky1
+    100098: soldier:RightHandPinky2
+    100100: soldier:RightHandPinky3
+    100102: soldier:RightHandPinky4
+    100104: soldier:RightHandRing1
+    100106: soldier:RightHandRing2
+    100108: soldier:RightHandRing3
+    100110: soldier:RightHandRing4
+    100112: soldier:RightHandThumb1
+    100114: soldier:RightHandThumb2
+    100116: soldier:RightHandThumb3
+    100118: soldier:RightHandThumb4
+    100120: soldier:RightLeg
+    100122: soldier:RightShoulder
+    100124: soldier:RightToeBase
+    100126: soldier:RightUpLeg
+    100128: soldier:Spine
+    100130: soldier:Spine1
+    100132: soldier:Spine2
+    100134: //RootNode
+    400000: solder_mesh
+    400002: soldier:Head
+    400004: soldier:HeadTop_End
+    400006: soldier:Hips
+    400008: soldier:LeftArm
+    400010: soldier:LeftFoot
+    400012: soldier:LeftFootToeBase_End
+    400014: soldier:LeftForeArm
+    400016: soldier:LeftHand
+    400018: soldier:LeftHandIndex1
+    400020: soldier:LeftHandIndex2
+    400022: soldier:LeftHandIndex3
+    400024: soldier:LeftHandIndex4
+    400026: soldier:LeftHandMiddle1
+    400028: soldier:LeftHandMiddle2
+    400030: soldier:LeftHandMiddle3
+    400032: soldier:LeftHandMiddle4
+    400034: soldier:LeftHandPinky1
+    400036: soldier:LeftHandPinky2
+    400038: soldier:LeftHandPinky3
+    400040: soldier:LeftHandPinky4
+    400042: soldier:LeftHandRing1
+    400044: soldier:LeftHandRing2
+    400046: soldier:LeftHandRing3
+    400048: soldier:LeftHandRing4
+    400050: soldier:LeftHandThumb1
+    400052: soldier:LeftHandThumb2
+    400054: soldier:LeftHandThumb3
+    400056: soldier:LeftHandThumb4
+    400058: soldier:LeftLeg
+    400060: soldier:LeftShoulder
+    400062: soldier:LeftToeBase
+    400064: soldier:LeftUpLeg
+    400066: soldier:Neck
+    400068: soldier:Neck1
+    400070: soldier:RightArm
+    400072: soldier:RightFoot
+    400074: soldier:RightFootToeBase_End
+    400076: soldier:RightForeArm
+    400078: soldier:RightHand
+    400080: soldier:RightHandIndex1
+    400082: soldier:RightHandIndex2
+    400084: soldier:RightHandIndex3
+    400086: soldier:RightHandIndex4
+    400088: soldier:RightHandMiddle1
+    400090: soldier:RightHandMiddle2
+    400092: soldier:RightHandMiddle3
+    400094: soldier:RightHandMiddle4
+    400096: soldier:RightHandPinky1
+    400098: soldier:RightHandPinky2
+    400100: soldier:RightHandPinky3
+    400102: soldier:RightHandPinky4
+    400104: soldier:RightHandRing1
+    400106: soldier:RightHandRing2
+    400108: soldier:RightHandRing3
+    400110: soldier:RightHandRing4
+    400112: soldier:RightHandThumb1
+    400114: soldier:RightHandThumb2
+    400116: soldier:RightHandThumb3
+    400118: soldier:RightHandThumb4
+    400120: soldier:RightLeg
+    400122: soldier:RightShoulder
+    400124: soldier:RightToeBase
+    400126: soldier:RightUpLeg
+    400128: soldier:Spine
+    400130: soldier:Spine1
+    400132: soldier:Spine2
+    400134: //RootNode
+    4300000: solder_mesh
+    7400000: Arret
+    7400002: saut
+    7400004: Marche
+    7400006: saut
+    7400008: Basic_Locomotion_Pack
+    7400010: Basic_Locomotion_Pack0
+    7400012: Basic_Locomotion_Pack1
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: solder_mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Marche
+      takeName: mixamo.com
+      firstFrame: 371
+      lastFrame: 420
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solder_mesh
+        weight: 1
+      - path: soldier:Hips
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase/soldier:LeftFootToeBase_End
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase/soldier:RightFootToeBase_End
+        weight: 1
+      - path: soldier:Hips/soldier:Spine
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3/soldier:LeftHandIndex4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3/soldier:LeftHandMiddle4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3/soldier:LeftHandPinky4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3/soldier:LeftHandRing4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3/soldier:LeftHandThumb4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head/soldier:HeadTop_End
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3/soldier:RightHandIndex4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3/soldier:RightHandMiddle4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3/soldier:RightHandPinky4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3/soldier:RightHandRing4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3/soldier:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Arret
+      takeName: mixamo.com
+      firstFrame: 214
+      lastFrame: 253
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solder_mesh
+        weight: 1
+      - path: soldier:Hips
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase/soldier:LeftFootToeBase_End
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase/soldier:RightFootToeBase_End
+        weight: 1
+      - path: soldier:Hips/soldier:Spine
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3/soldier:LeftHandIndex4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3/soldier:LeftHandMiddle4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3/soldier:LeftHandPinky4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3/soldier:LeftHandRing4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3/soldier:LeftHandThumb4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head/soldier:HeadTop_End
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3/soldier:RightHandIndex4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3/soldier:RightHandMiddle4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3/soldier:RightHandPinky4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3/soldier:RightHandRing4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3/soldier:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: saut
+      takeName: mixamo.com
+      firstFrame: 324
+      lastFrame: 381
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solder_mesh
+        weight: 1
+      - path: soldier:Hips
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase/soldier:LeftFootToeBase_End
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase/soldier:RightFootToeBase_End
+        weight: 1
+      - path: soldier:Hips/soldier:Spine
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3/soldier:LeftHandIndex4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3/soldier:LeftHandMiddle4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3/soldier:LeftHandPinky4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3/soldier:LeftHandRing4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3/soldier:LeftHandThumb4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head/soldier:HeadTop_End
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3/soldier:RightHandIndex4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3/soldier:RightHandMiddle4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3/soldier:RightHandPinky4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3/soldier:RightHandRing4
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3/soldier:RightHandThumb4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Basic_Locomotion_Pack
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 472
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solder_mesh
+        weight: 0
+      - path: soldier:Hips
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase/soldier:LeftFootToeBase_End
+        weight: 0
+      - path: soldier:Hips/soldier:RightUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase/soldier:RightFootToeBase_End
+        weight: 0
+      - path: soldier:Hips/soldier:Spine
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3/soldier:LeftHandIndex4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3/soldier:LeftHandMiddle4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3/soldier:LeftHandPinky4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3/soldier:LeftHandRing4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3/soldier:LeftHandThumb4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head/soldier:HeadTop_End
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3/soldier:RightHandIndex4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3/soldier:RightHandMiddle4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3/soldier:RightHandPinky4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3/soldier:RightHandRing4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3/soldier:RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Basic_Locomotion_Pack0
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 472
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solder_mesh
+        weight: 0
+      - path: soldier:Hips
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase/soldier:LeftFootToeBase_End
+        weight: 0
+      - path: soldier:Hips/soldier:RightUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase/soldier:RightFootToeBase_End
+        weight: 0
+      - path: soldier:Hips/soldier:Spine
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3/soldier:LeftHandIndex4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3/soldier:LeftHandMiddle4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3/soldier:LeftHandPinky4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3/soldier:LeftHandRing4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3/soldier:LeftHandThumb4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head/soldier:HeadTop_End
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3/soldier:RightHandIndex4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3/soldier:RightHandMiddle4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3/soldier:RightHandPinky4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3/soldier:RightHandRing4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3/soldier:RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Basic_Locomotion_Pack1
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 472
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: solder_mesh
+        weight: 0
+      - path: soldier:Hips
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:LeftUpLeg/soldier:LeftLeg/soldier:LeftFoot/soldier:LeftToeBase/soldier:LeftFootToeBase_End
+        weight: 0
+      - path: soldier:Hips/soldier:RightUpLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase
+        weight: 1
+      - path: soldier:Hips/soldier:RightUpLeg/soldier:RightLeg/soldier:RightFoot/soldier:RightToeBase/soldier:RightFootToeBase_End
+        weight: 0
+      - path: soldier:Hips/soldier:Spine
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandIndex1/soldier:LeftHandIndex2/soldier:LeftHandIndex3/soldier:LeftHandIndex4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandMiddle1/soldier:LeftHandMiddle2/soldier:LeftHandMiddle3/soldier:LeftHandMiddle4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandPinky1/soldier:LeftHandPinky2/soldier:LeftHandPinky3/soldier:LeftHandPinky4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandRing1/soldier:LeftHandRing2/soldier:LeftHandRing3/soldier:LeftHandRing4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:LeftShoulder/soldier:LeftArm/soldier:LeftForeArm/soldier:LeftHand/soldier:LeftHandThumb1/soldier:LeftHandThumb2/soldier:LeftHandThumb3/soldier:LeftHandThumb4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:Neck/soldier:Neck1/soldier:Head/soldier:HeadTop_End
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandIndex1/soldier:RightHandIndex2/soldier:RightHandIndex3/soldier:RightHandIndex4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandMiddle1/soldier:RightHandMiddle2/soldier:RightHandMiddle3/soldier:RightHandMiddle4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandPinky1/soldier:RightHandPinky2/soldier:RightHandPinky3/soldier:RightHandPinky4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandRing1/soldier:RightHandRing2/soldier:RightHandRing3/soldier:RightHandRing4
+        weight: 0
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3
+        weight: 1
+      - path: soldier:Hips/soldier:Spine/soldier:Spine1/soldier:Spine2/soldier:RightShoulder/soldier:RightArm/soldier:RightForeArm/soldier:RightHand/soldier:RightHandThumb1/soldier:RightHandThumb2/soldier:RightHandThumb3/soldier:RightHandThumb4
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
